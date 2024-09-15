@@ -1,8 +1,23 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Web Application , namely , 'URBAN FOOD LOGISTICS PLATFORM' is our very first project built using the MERN stack.
+We have been upskilling ourselves in this incredible learing journey.
+Our simple to use online food delivery app lets users to order their favourite foods from multiple cusines seamelessly in no time.
+The users data , their accounts are stored anonymously providng better safety and privacy to user data
 
-Currently, two official plugins are available:
+TechStack:
+  HTML
+  CSS
+  JavaScript
+  React ( with react query for caching and synchronization of fetched data)
+  *********************
+  Node JS
+  Express JS 
+  *****************
+  Mongo DB , allowing the developers to store the data in a very structured yet flexible manner.
+  Also , requires minimal effort to manipulate the data in databases
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  The Website is also integrated with STRIPE , making the transactions more secure !!
+
+The application is still in development stage.
+  
+
